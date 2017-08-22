@@ -1,0 +1,9 @@
+Package: Rugby
+Type: Package
+Title: Player statistics in a rugby game.
+Version: 1.0
+Date: 2014-04-14
+Author: Diego_Ribeiro_Marcondes
+Maintainer: Diego Marcondes <diegormmarcondes@gmail.com>
+Description: Compute players attributtes during the game.
+License: free.
